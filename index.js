@@ -1,8 +1,8 @@
-function HtmlWebpackPluginEvents(options) {
+function HtmlWebpackPluginAddons(options) {
     this.options = options || {};
 }
 
-HtmlWebpackPluginEvents.prototype.apply = function(compiler) {
+HtmlWebpackPluginAddons.prototype.apply = function(compiler) {
     var options = this.options;
 
     compiler.plugin('compilation', function(compilation) {
@@ -27,4 +27,4 @@ HtmlWebpackPluginEvents.prototype.apply = function(compiler) {
     });
 };
 
-module.exports = HtmlWebpackPluginEvents;
+module.exports = HtmlWebpackPluginAddons;
