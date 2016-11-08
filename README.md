@@ -52,3 +52,7 @@ var webpackConfig = {
 
 module.exports = webpackConfig;
 ```
+
+# License
+
+This project is licensed under [MIT](https://github.com/cheton/html-webpack-plugin-addons/blob/master/LICENSE).
