@@ -1,6 +1,6 @@
-# find-imports [![build status](https://travis-ci.org/cheton/find-imports.svg?branch=master)](https://travis-ci.org/cheton/find-imports) [![Coverage Status](https://coveralls.io/repos/github/cheton/find-imports/badge.svg?branch=master)](https://coveralls.io/github/cheton/find-imports?branch=master)
+# html-webpack-plugin-addons
 
-[![NPM](https://nodei.co/npm/find-imports.png?downloads=true&stars=true)](https://www.npmjs.com/package/find-imports)
+[![NPM](https://nodei.co/npm/html-webpack-plugin-addons.png?downloads=true&stars=true)](https://www.npmjs.com/package/html-webpack-plugin-addons)
 
 Addons for the html-webpack-plugin to alter the html in your webpack config.
 
@@ -8,6 +8,7 @@ Addons for the html-webpack-plugin to alter the html in your webpack config.
 
 ```bash
 npm install --save-dev html-webpack-plugin-addons
+```
 
 ## Usage
 
