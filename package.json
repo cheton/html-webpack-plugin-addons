@@ -1,0 +1,20 @@
+{
+  "name": "html-webpack-plugin-addons",
+  "version": "0.1.0",
+  "description": "Addons for the html-webpack-plugin to alter the html in your webpack config.",
+  "homepage": "https://github.com/cheton/html-webpack-plugin-addons",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Cheton Wu <cheton@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cheton/html-webpack-plugin-addons.git"
+  },
+  "keywords": [
+    "html",
+    "webpack",
+    "plugin",
+    "html-webpack-plugin"
+  ]
+}
