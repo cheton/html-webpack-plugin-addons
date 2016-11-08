@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-plugin-addons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Addons for the html-webpack-plugin to alter the html in your webpack config.",
   "homepage": "https://github.com/cheton/html-webpack-plugin-addons",
   "main": "index.js",
