@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/html-webpack-plugin-addons.png?downloads=true&stars=true)](https://www.npmjs.com/package/html-webpack-plugin-addons)
 
-Addons for the html-webpack-plugin to alter the html in your webpack config.
+Addons for the [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) to alter the html in your webpack config.
 
 ## Installation
 
